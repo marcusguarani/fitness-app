@@ -63,30 +63,6 @@ fitness-app/
 └── README.md
 ```
 
-## ✨ O que foi adaptado
-
-**Visual e experiência**
-- Redesenho completo com design system próprio (cores, tipografia, espaçamento)
-- Interface traduzida para português
-- Moldura de celular (estilo iPhone) para testar o app no navegador, com Dynamic Island, botões laterais e barra de status simulada (horário em tempo real, sinal e bateria)
-- Avisos e confirmações exibidos dentro do próprio app, sem popups nativos do navegador
-- Modo escuro funcional
-
-**Navegação**
-- Bottom navigation com 4 abas: Início, Treinos, Atividade e Perfil
-- Registro de exercício integrado à navegação por abas, sem perder acesso ao menu
-
-**Funcionalidades novas**
-- Aba **Treinos**: catálogo com filtro por categoria; iniciar um treino pré-preenche o registro de exercício
-- Aba **Atividade**: resumo, gráfico de minutos por dia da semana e barras de progresso de metas, com dados reais do usuário
-- Exclusão de atividades registradas, com confirmação
-- Upload de foto de perfil (válido durante a sessão atual)
-
-**Correções de compatibilidade**
-- Ajustes para Node.js, NLTK, Werkzeug, PyJWT e Flask-SQLAlchemy atuais
-- Back-end migrado do endpoint hospedado original (Heroku, desativado) para rodar localmente
-- Remoção do módulo `shopping` (rotas de um projeto de loja não relacionado, que vinha junto no back-end original)
-
 ## ⚙️ Requisitos
 
 - [Node.js](https://nodejs.org/) — recomendado usar a **versão 16** via [nvm-windows](https://github.com/coreybutler/nvm-windows), por compatibilidade com o Expo SDK 39
