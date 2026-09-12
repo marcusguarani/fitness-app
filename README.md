@@ -122,7 +122,6 @@ Projeto desenvolvido para estudo, demonstração e portfólio, explorando:
 - Autenticação baseada em token
 - Persistência de dados com SQLite
 - Separação entre front-end e back-end
-- Resolução de problemas reais de compatibilidade entre versões de dependências
 
 ## 🛠️ Limitações conhecidas e melhorias futuras
 
@@ -139,11 +138,15 @@ Possíveis próximos passos:
 
 ## 📄 Licença
 
-Projeto disponível para fins de estudo e demonstração, baseado nos repositórios originais de [avigael](https://github.com/avigael).
+Projeto disponível para fins de estudo e demonstração.
 
-## 🙌 Créditos
+## 👤 Autor
 
-- Projeto original (front-end e back-end): [avigael](https://github.com/avigael)
+**Marcus Guarani**
+
+[![GitHub](https://img.shields.io/badge/GitHub-marcusguarani-181717?style=flat&logo=github)](https://github.com/marcusguarani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcusguarani-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcusguarani)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-marcusguarani.com.br-000000?style=flat&logo=googlechrome&logoColor=white)](https://marcusguarani.com.br)
 
 ---
 
