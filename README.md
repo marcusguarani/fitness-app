@@ -1,12 +1,10 @@
 <h1 align="center">🏋️ Fitness App — React Native + Flask</h1>
 
-Aplicativo de acompanhamento de treinos e atividades físicas, com front-end em **React Native (Expo)** e uma API REST construída em **Python + Flask**.
+Aplicativo de demonstração desenvolvido para o gerenciamento, acompanhamento e registro de treinos e atividades físicas. 
+O projeto utiliza **React Native (Expo)** no desenvolvimento mobile e uma API REST desenvolvida em **Python + Flask**.
+A aplicação foi estruturada com uma arquitetura separada entre front-end e back-end, permitindo uma comunicação 
+eficiente entre o aplicativo mobile e a API, responsável pelo processamento, gerenciamento e armazenamento dos dados.
 
-> **Projeto adaptado** a partir de dois repositórios originais do desenvolvedor [avigael](https://github.com/avigael):
-> [react-native-fitness-app](https://github.com/avigael/react-native-fitness-app) (front-end) e
-> [fitness-shopping-rest](https://github.com/avigael/fitness-shopping-rest) (back-end).
-> Todo o crédito pela concepção original — estrutura de telas, modelo de dados e a API — é dele.
-> Veja a seção [O que foi adaptado](#-o-que-foi-adaptado) para saber o que mudou nesta versão.
 
 <h2 align="center">Capturas de tela</h2>
 
