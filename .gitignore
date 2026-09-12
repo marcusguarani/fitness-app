@@ -1,0 +1,19 @@
+# --- Frontend (React Native / Expo) ---
+frontend/node_modules/
+frontend/.expo/
+frontend/.expo-shared/
+frontend/npm-debug.*
+frontend/web-build/
+
+# --- Backend (Python / Flask) ---
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/.venv/
+backend/sample.db
+
+# --- Geral ---
+.DS_Store
+*.log
+.env
