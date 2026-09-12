@@ -10,6 +10,7 @@ Aplicativo de acompanhamento de treinos e atividades físicas, com front-end em 
 
 ## Capturas de tela
 
+<p align="center">
 <table>
   <tr>
     <td align="center"><img src=".github/screenshots/tela-inicial.png" width="200"><br>Login</td>
@@ -18,10 +19,11 @@ Aplicativo de acompanhamento de treinos e atividades físicas, com front-end em 
   </tr>
   <tr>
     <td align="center"><img src=".github/screenshots/tela-atividade.png" width="200"><br>Atividade</td>
-    <td align="center"><img src=".github/screenshots/tela-perfil.png" width="200"><br>Perfil (modo escuro)</td>
-    <td></td>
+    <td align="center"><img src=".github/screenshots/tela-perfil.png" width="200"><br>Perfil</td>
+    <td align="center"><img src=".github/screenshots/tela-dark.png" width="200"><br>Modo Escuro</td>
   </tr>
 </table>
+</p>
 
 ## 🚀 Tecnologias
 
