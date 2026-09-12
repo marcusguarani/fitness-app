@@ -1,4 +1,4 @@
-# 🏋️ Fitness App — React Native + Flask
+<h1 align="center">🏋️ Fitness App — React Native + Flask</h1>
 
 Aplicativo de acompanhamento de treinos e atividades físicas, com front-end em **React Native (Expo)** e uma API REST construída em **Python + Flask**.
 
@@ -8,7 +8,7 @@ Aplicativo de acompanhamento de treinos e atividades físicas, com front-end em 
 > Todo o crédito pela concepção original — estrutura de telas, modelo de dados e a API — é dele.
 > Veja a seção [O que foi adaptado](#-o-que-foi-adaptado) para saber o que mudou nesta versão.
 
-## Capturas de tela
+<h2 align="center">Capturas de tela</h2>
 
 <p align="center">
 <table>
